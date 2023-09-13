@@ -1,0 +1,21 @@
+.navbar
+{
+    width: 100vw;
+    position: fixed;
+    background-color: #AAA;
+
+}
+.selection
+{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+span
+{
+    opacity: 0.63;
+}
+span:hover
+{
+    opacity: 1;
+}
